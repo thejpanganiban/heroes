@@ -25,3 +25,4 @@ A bunch of dota heroes
 - riki
 - mirana
 - juggernaut
+- sniper
